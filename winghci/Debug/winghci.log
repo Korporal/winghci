@@ -1,0 +1,18 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  WndMain.c
+  WinGHCi.c
+  Utf8.c
+  Toolbar.c
+  Strings.c
+  RtfWindow.c
+  Registry.c
+  MruFiles.c
+  History.c
+  General.c
+  DlgTools.c
+  DlgOpts.c
+  DlgAbout.c
+  Combo.c
+  Generating Code...
+Combo.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  winghci.vcxproj -> C:\Git\GitHub\haskell\winghci\Debug\winghci.exe
